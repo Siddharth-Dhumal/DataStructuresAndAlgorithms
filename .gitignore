@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings (if applicable)
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# General backup or temp files
+*.swp
+*.swo
+*~
+
+# Logs and coverage
+*.log
+*.out
+*.coverage
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pytest cache
+.pytest_cache/
